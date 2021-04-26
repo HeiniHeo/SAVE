@@ -15,5 +15,13 @@
     "nunjucks": "^3.2.3"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyejjun/homepage_board.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hyejjun/homepage_board/issues"
+  },
+  "homepage": "https://github.com/hyejjun/homepage_board#readme",
   "description": ""
 }
